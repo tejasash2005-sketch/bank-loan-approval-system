@@ -1,0 +1,5 @@
+Username,Name,Age,Gender,Nationality,Marital Status,Loan Type,Loan Amount,Credit Score,EMI,Risk,Fraud,Loan Status,Lifecycle Stage,Approval Probability,Applied Date,Last Updated,EMI_Day,Disbursement_Date,Account_Number,Bank_Name,IFSC_Code,Prediction,Applicant Income,Coapplicant Income,Total Income,Loan-to-Income Ratio,DTI Ratio,Credit History,Aadhaar,PAN,CreditFile,BankFile
+user,tejas.s,25,Male,Indian,Single,Personal Loan,200000,700,9414.69,Medium,false,Under Review,Application Submitted,54.8,2026-03-29 17:41,2026-03-29 17:41,5,2026-03-29,,,,1,50000,0,50000,2,0.3,1,,,,
+user,tejas,25,Male,Indian,Single,Car Loan,200000,651,4249.41,Medium,false,Under Review,Application Submitted,71.0,2026-03-29 18:54,2026-03-29 18:54,8,2026-03-29,,,,1,500000,500000000,50000,5.2,0.41,1,,,,
+user,tejas,25,Male,Indian,Single,Personal Loan,200000,774,9414.69,Low,false,Under Review,Application Submitted,61.0,2026-03-31 09:41,2026-03-31 09:41,5,2026-03-31,,,,1,49999,0,50000,2,0.3,1,,,,
+user,tejas,25,Male,Indian,Single,Personal Loan,200000,774,9414.69,Low,false,Under Review,Application Submitted,61.0,2026-03-31 09:45,2026-03-31 09:45,5,2026-03-31,,,,1,49999,0,50000,2,0.3,1,,,,

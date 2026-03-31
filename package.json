@@ -1,0 +1,14 @@
+{
+  "name": "bank-loan-app",
+  "version": "1.0.0",
+  "description": "Bank Loan Approval Prediction - Full Stack",
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
